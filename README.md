@@ -1,16 +1,31 @@
-# auth_signin_signup_firebase
+## Membuat Login dan Register connect dengan firebase menggunakan state management provider
 
-A new Flutter project.
+- halaman welcome
 
-## Getting Started
+  
+  <img width="188" alt="image" src="https://github.com/ichanyr/auth_signin_signup_firebase/assets/114141633/9712a8b5-7ecb-4164-95ed-b95c8e68d21d">
 
-This project is a starting point for a Flutter application.
+- halaman login
 
-A few resources to get you started if this is your first Flutter project:
+  
+  <img width="192" alt="image" src="https://github.com/ichanyr/auth_signin_signup_firebase/assets/114141633/dae9b1d5-4a08-4d97-be08-2211b833cc75">
+  <img width="194" alt="image" src="https://github.com/ichanyr/auth_signin_signup_firebase/assets/114141633/283fa49a-efe7-43e6-9f53-534da1dd2ae8">
+  <img width="193" alt="image" src="https://github.com/ichanyr/auth_signin_signup_firebase/assets/114141633/ace3c071-03eb-42a6-a2ed-123e6db4f24f">
+  <img width="955" alt="image" src="https://github.com/ichanyr/auth_signin_signup_firebase/assets/114141633/44527c3d-8bde-468c-929e-a184747f96b2">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+- halaman register
+
+  
+  <img width="195" alt="image" src="https://github.com/ichanyr/auth_signin_signup_firebase/assets/114141633/11b0c67b-6aba-436f-aa62-eb798abd4505">
+  <img width="195" alt="image" src="https://github.com/ichanyr/auth_signin_signup_firebase/assets/114141633/79375d8a-703c-428a-9efd-18eb2fe02b15">
+  <img width="197" alt="image" src="https://github.com/ichanyr/auth_signin_signup_firebase/assets/114141633/c6336792-5e9c-4852-bdd2-77fa4b596860">
+  <img width="960" alt="image" src="https://github.com/ichanyr/auth_signin_signup_firebase/assets/114141633/9fe47315-52f7-4068-8c3a-5b4a3a9586f8">
+
+
+-halaman home
+
+
+<img width="192" alt="image" src="https://github.com/ichanyr/auth_signin_signup_firebase/assets/114141633/c3786f47-8667-4e18-8923-6fbbb22f4ef9">
+
