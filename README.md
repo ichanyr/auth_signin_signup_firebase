@@ -10,6 +10,7 @@
   
   <img width="192" alt="image" src="https://github.com/ichanyr/auth_signin_signup_firebase/assets/114141633/dae9b1d5-4a08-4d97-be08-2211b833cc75">
   <img width="194" alt="image" src="https://github.com/ichanyr/auth_signin_signup_firebase/assets/114141633/283fa49a-efe7-43e6-9f53-534da1dd2ae8">
+  <img width="193" alt="image" src="https://github.com/ichanyr/auth_signin_signup_firebase/assets/114141633/ace3c071-03eb-42a6-a2ed-123e6db4f24f">
   <img width="955" alt="image" src="https://github.com/ichanyr/auth_signin_signup_firebase/assets/114141633/44527c3d-8bde-468c-929e-a184747f96b2">
 
 
@@ -19,6 +20,7 @@
   
   <img width="195" alt="image" src="https://github.com/ichanyr/auth_signin_signup_firebase/assets/114141633/11b0c67b-6aba-436f-aa62-eb798abd4505">
   <img width="195" alt="image" src="https://github.com/ichanyr/auth_signin_signup_firebase/assets/114141633/79375d8a-703c-428a-9efd-18eb2fe02b15">
+  <img width="197" alt="image" src="https://github.com/ichanyr/auth_signin_signup_firebase/assets/114141633/c6336792-5e9c-4852-bdd2-77fa4b596860">
   <img width="960" alt="image" src="https://github.com/ichanyr/auth_signin_signup_firebase/assets/114141633/9fe47315-52f7-4068-8c3a-5b4a3a9586f8">
 
 
