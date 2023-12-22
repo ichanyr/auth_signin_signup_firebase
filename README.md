@@ -9,7 +9,7 @@
 
   
   <img width="192" alt="image" src="https://github.com/ichanyr/auth_signin_signup_firebase/assets/114141633/dae9b1d5-4a08-4d97-be08-2211b833cc75">
-  <img width="193" alt="image" src="https://github.com/ichanyr/auth_signin_signup_firebase/assets/114141633/9e06334e-cef4-4394-8f41-3f8c2146ef36">
+  <img width="194" alt="image" src="https://github.com/ichanyr/auth_signin_signup_firebase/assets/114141633/283fa49a-efe7-43e6-9f53-534da1dd2ae8">
   <img width="955" alt="image" src="https://github.com/ichanyr/auth_signin_signup_firebase/assets/114141633/44527c3d-8bde-468c-929e-a184747f96b2">
 
 
