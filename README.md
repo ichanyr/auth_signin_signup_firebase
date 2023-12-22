@@ -1,16 +1,11 @@
-# auth_signin_signup_firebase
+Membuat Login dan Register connect dengan firebase menggunakan state management provider
 
-A new Flutter project.
+- halaman welcome
+  <img width="188" alt="image" src="https://github.com/ichanyr/auth_signin_signup_firebase/assets/114141633/9712a8b5-7ecb-4164-95ed-b95c8e68d21d">
 
-## Getting Started
+- halaman login
+  <img width="192" alt="image" src="https://github.com/ichanyr/auth_signin_signup_firebase/assets/114141633/dae9b1d5-4a08-4d97-be08-2211b833cc75">
 
-This project is a starting point for a Flutter application.
+- halaman register
+  <img width="195" alt="image" src="https://github.com/ichanyr/auth_signin_signup_firebase/assets/114141633/11b0c67b-6aba-436f-aa62-eb798abd4505">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
